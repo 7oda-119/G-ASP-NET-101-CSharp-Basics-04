@@ -108,6 +108,17 @@
             //string upperTitle = title.ToUpper();
             //Console.WriteLine($"title: {title} \nupperTitle: {upperTitle}");
             #endregion
+
+            #region Question02
+            ////Declare two separate string variables, both set to the literal "Clean Code".
+            ////Use ReferenceEquals() to check if they point to the same object in memory.
+
+            //string title1 = "Clean Code";
+            //string title2 = "Clean Code";
+
+            //Console.WriteLine($"ReferenceEquals(title1, title2): {object.ReferenceEquals(title1, title2)}");
+
+            #endregion
             #endregion
         }
 
