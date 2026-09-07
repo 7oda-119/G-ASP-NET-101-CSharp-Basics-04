@@ -161,6 +161,16 @@ namespace C_BAsics04
             //string sentence = $"Book: {title}, pages: {pages}";
             //Console.WriteLine(sentence);
             #endregion
+
+            #region Question07
+            ////Build the same sentence again, but using string.Format().
+
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string sentence = string.Format("Book: {0}, pages: {1}", title, pages);
+            //Console.WriteLine(sentence);
+            #endregion
+
             #endregion
         }
 
