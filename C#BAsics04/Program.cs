@@ -1,4 +1,6 @@
-﻿namespace C_BAsics04
+﻿using System.Text;
+
+namespace C_BAsics04
 {
     internal class Program
     {
@@ -118,6 +120,16 @@
 
             //Console.WriteLine($"ReferenceEquals(title1, title2): {object.ReferenceEquals(title1, title2)}");
 
+            #endregion
+
+            #region Question03
+            ////Create a StringBuilder, Append() the text "Book List",
+            ////then Append() " - Updated" onto the same object. Print the final result.
+
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book List");
+            //sb.Append(" - Updated");
+            //Console.WriteLine(sb.ToString());
             #endregion
             #endregion
         }
