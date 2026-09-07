@@ -26,6 +26,16 @@
             //Console.WriteLine(sizeLabel);
             #endregion
 
+            #region Question16
+            ////Given string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };,
+            ////use a for loop to print each book with its position number, like 1. Clean Code.
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //for(int i = 0; i< books.Length; i++)
+            //{
+            //    Console.WriteLine($"{i + 1}. {books[i]}");
+            //}
+            #endregion
+
             #endregion
         }
     }
