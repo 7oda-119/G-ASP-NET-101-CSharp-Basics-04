@@ -58,6 +58,15 @@
             //while (count < 3);
             #endregion
 
+            #region Question19
+            ////Using the same books array, use a foreach loop to print every book title. 
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
+            #endregion
+
             #endregion
         }
     }
