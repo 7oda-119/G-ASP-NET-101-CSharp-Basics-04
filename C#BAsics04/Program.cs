@@ -152,6 +152,15 @@ namespace C_BAsics04
             //string sentence = "Book: " + title + ", Pages: " + pages;
             //Console.WriteLine(sentence);
             #endregion
+
+            #region Question06
+            ////Build the same sentence as above, but using string interpolation.
+
+            //string title = "Clean Code";
+            //int pages = 464;
+            //string sentence = $"Book: {title}, pages: {pages}";
+            //Console.WriteLine(sentence);
+            #endregion
             #endregion
         }
 
